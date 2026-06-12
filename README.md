@@ -10,4 +10,6 @@ A Firefox extension which restores functionality found in Netscape, the Mozilla 
 - Calendar and to-do functionality
 - Chat client featuring XMPP, IRC, and Matrix support
 - RSS/Atom support integrated into email client UI
-- Maybe some sort of fediverse integration? 
+- Maybe some sort of fediverse integration?
+- [Firefox Widget support on new tab page](https://support.mozilla.org/en-US/kb/firefox-new-tab-widgets)
+- New tab page speed dial widget 
