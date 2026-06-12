@@ -8,6 +8,6 @@ A Firefox extension which restores functionality found in Netscape, the Mozilla 
   - Side panel mail list, opens mail client
   - Multi account support
 - Calendar and to-do functionality
-- Chat client featuring XAMPP, IRC, and Matrix support
+- Chat client featuring XMPP, IRC, and Matrix support
 - RSS/Atom support integrated into email client UI
 - Maybe some sort of fediverse integration? 
